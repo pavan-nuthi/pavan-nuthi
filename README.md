@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Pavan+Kumar+Nuthi+%F0%9F%91%8B;Software+Developer+%26+Tech+Enthusiast;Always+learning+new+technologies!" alt="Typing SVG" />
+  <h1>Hi there, I'm Pavan Kumar Nuthi</h1>
+  <h3>Software Developer & Tech Enthusiast</h3>
+  <p>Always learning new technologies!</p>
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔭 I'm passionate about creating innovative solutions and learning new technologies
 - 🌱 Currently exploring modern web development frameworks and cloud technologies
@@ -14,7 +16,7 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
   
@@ -54,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-nuthi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
@@ -62,7 +64,7 @@
 
 ---
 
-## 🌐 Connect with me
+## Connect with me
 
 <div align="center">
   
