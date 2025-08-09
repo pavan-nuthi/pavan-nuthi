@@ -8,11 +8,11 @@
 
 ## About Me
 
-- 🔭 I'm passionate about creating innovative solutions and learning new technologies
-- 🌱 Currently exploring modern web development frameworks and cloud technologies
-- 👯 I'm looking to collaborate on open source projects and innovative ideas
-- 💬 Ask me about web development, programming, or anything tech-related!
-- 📫 How to reach me: Check out my social links below
+- I'm passionate about creating innovative solutions and learning new technologies
+- Currently exploring modern web development frameworks and cloud technologies
+- I'm looking to collaborate on open source projects and innovative ideas
+- Ask me about web development, programming, or anything tech-related!
+- How to reach me: Check out my social links below
 
 ---
 
@@ -70,14 +70,6 @@
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://pavan-nuthi.netlify.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-k-nuthi/)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavan-nuthi)
   
 </div>
 
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-</div>
