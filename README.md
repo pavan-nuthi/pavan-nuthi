@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Pavan+Kumar+Nuthi+%F0%9F%91%8B;Software+Developer+%26+Tech+Enthusiast;Always+learning+new+technologies!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="300"/>
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -15,7 +11,6 @@
 - 👯 I'm looking to collaborate on open source projects and innovative ideas
 - 💬 Ask me about web development, programming, or anything tech-related!
 - 📫 How to reach me: Check out my social links below
-- ⚡ Fun fact: I love turning coffee into code ☕→💻
 
 ---
 
@@ -91,8 +86,6 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
-  ### ⭐ Don't forget to star some repositories if you find them interesting!
   
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 </div>
